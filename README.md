@@ -1,5 +1,12 @@
 # LeapYear
-- Input:
+-----------------------------------------------------------------------------------------------------------------------------
+### Prerequisite
+  - java 8
+  - Apache Maven
+  
+### Input:
   enter the year in console
-- Output:
+### Output:
   whether year is true or false
+### Command to run test
+  mvn test
